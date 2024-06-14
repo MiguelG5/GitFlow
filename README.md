@@ -1,2 +1,2 @@
 # GitFlow
-Ejemplo de la utilizacion del gitFlow
+Ejemplo, utilizacion del gitFlow
